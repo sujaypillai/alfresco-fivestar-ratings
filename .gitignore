@@ -5,3 +5,5 @@ build
 .settings
 alfresco-fivestar-ratings/metaversant-fivestar-repo/alf_data_dev
 alfresco-fivestar-ratings/metaversant-fivestar-share/alf_data_dev
+alfresco-fivestar-ratings/metaversant-fivestar-repo/target
+alfresco-fivestar-ratings/metaversant-fivestar-share/target
