@@ -1,4 +1,4 @@
-<import resource="classpath:/alfresco/module/com_metaversant_fivestar/scripts/rating.js">
+<import resource="classpath:/alfresco/module/${project.artifactId}/scripts/rating.js">
 
 var Evaluator =
 {
